@@ -1,0 +1,11 @@
+{
+    "INITIAL_MESSAGE_TITLE": "BOT ONLINE - OLÁ MUNDO",
+    
+    "FINAL_MESSAGE_EXECUTING": "encerrando o script",
+
+    "PERMISSION_ERROR_TITLE":"isso ocorre quando você executa um comando no qual requer alguma permissão especial.",
+
+    "PERMISSION_ERROR_AUTHOR_NAME":"Erro - Você não tem permissão para executar esse comando.",
+
+    "PERMISSION_ERROR_FIELD_NAME":":no_entry: permissão necessária:"
+}
