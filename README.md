@@ -1,2 +1,4 @@
 # Haru v2
- A low scale bot for discord
+Has the function to move user to another call.
+
+*Discontinued.*
